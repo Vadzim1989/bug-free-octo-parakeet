@@ -1,6 +1,6 @@
 /*Towers of Hanoi*/
-#include <iostream>
-  
+
+#include <iostream> 
 using namespace std;
 
 void hanoi(int n, int a, int b,int c);
